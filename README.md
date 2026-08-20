@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/panjetapreet03/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/panjetapreet03/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/panjetapreet03/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/panjetapreet03/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/panjetapreet03/Leetcode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/panjetapreet03/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/panjetapreet03/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/panjetapreet03/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/panjetapreet03/Leetcode/tree/master/0027-remove-element) |
 ## Dynamic Programming
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/panjetapreet03/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/panjetapreet03/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
