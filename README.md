@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/panjetapreet03/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/panjetapreet03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/panjetapreet03/Leetcode/tree/master/0704-binary-search) |
+| [3875-construct-uniform-parity-array-i](https://github.com/panjetapreet03/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/panjetapreet03/Leetcode/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/panjetapreet03/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
